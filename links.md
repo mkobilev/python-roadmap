@@ -1,3 +1,6 @@
+
+
+
 https://roadmap.sh/python
 
 https://dev.to/hb/python-developer-roadmap-in-2021-2bmo
@@ -27,5 +30,24 @@ https://www.reddit.com/r/Python/comments/1153jb6/ive_created_a_senior_python_dev
 https://github.com/pro1code1hack/Senior-Dev-Roadmap
 
 https://javarevisited.blogspot.com/2022/05/the-python-developer-roadmap.html#axzz7zNCPWayU
+
+
+https://habr.com/ru/articles/280960/
+
+https://github.com/arturpanteleev/backendinterview
+
+https://backendinterview.ru/network/http.html
+
+https://github.com/tutu-ru/php-interview
+
+https://github.com/peshrus/revolut-interview-backend-2019
+
+https://github.com/inetstudio/php-interview
+
+https://github.com/goq/telegram-list
+
+https://github.com/Entering-IT/documentation/blob/main/python/roadmap.md
+
+https://docs.google.com/document/d/1cpoFC7MVIvmhtV_0-rpdsw3hFEvS_hEEj2iqx-d5Djg/edit#
 
 
